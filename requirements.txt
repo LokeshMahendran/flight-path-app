@@ -1,2 +1,11 @@
+nano requirements.txt
+
+
+
+
+
+
 flask
 gunicorn
+python-dotenv
+
